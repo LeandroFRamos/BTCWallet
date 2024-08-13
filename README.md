@@ -25,4 +25,4 @@
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/leandroframos/bitcoin-wallet-generator.git
+   git clone https://github.com/leandroframos/BTCWallet.git
